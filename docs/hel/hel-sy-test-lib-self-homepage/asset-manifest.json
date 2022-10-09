@@ -1,0 +1,16 @@
+{
+  "files": {
+    "static/js/0.f9b478d6.chunk.js": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/static/js/0.f9b478d6.chunk.js",
+    "main.js": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/static/js/main.c75a4887.chunk.js",
+    "runtime-main.js": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/static/js/runtime-main.1917fecd.js",
+    "index.html": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/index.html",
+    "precache-manifest.2cd2190e3bc08e4a05f8f0cf04ebf2a8.js": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/precache-manifest.2cd2190e3bc08e4a05f8f0cf04ebf2a8.js",
+    "service-worker.js": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/service-worker.js",
+    "static/js/0.f9b478d6.chunk.js.LICENSE.txt": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/static/js/0.f9b478d6.chunk.js.LICENSE.txt",
+    "static/js/main.c75a4887.chunk.js.LICENSE.txt": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/static/js/main.c75a4887.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1917fecd.js",
+    "static/js/main.c75a4887.chunk.js"
+  ]
+}
