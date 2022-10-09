@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/precache-manifest.8529659641c9fd0ef1bf031b55255a78.js"
+  "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/precache-manifest.ad446aa6eb728ccdfe2e6ea0bbc2a60d.js"
 );
 
 self.addEventListener('message', (event) => {
