@@ -1,19 +1,19 @@
 {
   "app": {
-    "name": "hel-sy-test-lib",
-    "app_group_name": "hel-sy-test-lib",
+    "name": "hel-sy-test-lib-self-homepage",
+    "app_group_name": "hel-sy-test-lib-self-homepage",
     "git_repo_url": "",
     "extract_mode": "build",
-    "online_version": "0.0.2",
-    "build_version": "0.0.2"
+    "online_version": "0.0.1",
+    "build_version": "0.0.1"
   },
   "version": {
     "plugin_ver": "2.3.1",
-    "sub_app_name": "hel-sy-test-lib",
-    "sub_app_version": "0.0.2",
+    "sub_app_name": "hel-sy-test-lib-self-homepage",
+    "sub_app_version": "0.0.1",
     "src_map": {
-      "webDirPath": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist",
-      "htmlIndexSrc": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/index.html",
+      "webDirPath": "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1",
+      "htmlIndexSrc": "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/index.html",
       "iframeSrc": "",
       "chunkCssSrcList": [],
       "privCssSrcList": [],
@@ -22,17 +22,17 @@
         {
           "tag": "script",
           "attrs": {
-            "src": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/hel_userChunk_1.js"
+            "src": "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/hel_userChunk_1.js"
           }
         },
         {
           "tag": "script",
           "attrs": {
-            "src": "https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/static/js/main.c75a4887.chunk.js"
+            "src": "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/static/js/main.54862863.chunk.js"
           }
         }
       ]
     },
-    "html_content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><title>remote-lib-tpl</title><meta name=\"description\" content=\"hel remote lib template\"/></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div><script>!function(e){function t(t){for(var n,i,l=t[0],a=t[1],s=t[2],f=0,p=[];f<l.length;f++)i=l[f],Object.prototype.hasOwnProperty.call(o,i)&&o[i]&&p.push(o[i][0]),o[i]=0;for(n in a)Object.prototype.hasOwnProperty.call(a,n)&&(e[n]=a[n]);for(c&&c(t);p.length;)p.shift()();return u.push.apply(u,s||[]),r()}function r(){for(var e,t=0;t<u.length;t++){for(var r=u[t],n=!0,l=1;l<r.length;l++){var a=r[l];0!==o[a]&&(n=!1)}n&&(u.splice(t--,1),e=i(i.s=r[0]))}return e}var n={},o={2:0},u=[];function i(t){if(n[t])return n[t].exports;var r=n[t]={i:t,l:!1,exports:{}};return e[t].call(r.exports,r,r.exports,i),r.l=!0,r.exports}i.e=function(e){var t=[],r=o[e];if(0!==r)if(r)t.push(r[2]);else{var n=new Promise((function(t,n){r=o[e]=[t,n]}));t.push(r[2]=n);var u,l=document.createElement(\"script\");l.charset=\"utf-8\",l.timeout=120,i.nc&&l.setAttribute(\"nonce\",i.nc),l.src=function(e){return i.p+\"static/js/\"+({}[e]||e)+\".\"+{0:\"f9b478d6\"}[e]+\".chunk.js\"}(e);var a=new Error;u=function(t){l.onerror=l.onload=null,clearTimeout(s);var r=o[e];if(0!==r){if(r){var n=t&&(\"load\"===t.type?\"missing\":t.type),u=t&&t.target&&t.target.src;a.message=\"Loading chunk \"+e+\" failed.\\n(\"+n+\": \"+u+\")\",a.name=\"ChunkLoadError\",a.type=n,a.request=u,r[1](a)}o[e]=void 0}};var s=setTimeout((function(){u({type:\"timeout\",target:l})}),12e4);l.onerror=l.onload=u,document.head.appendChild(l)}return Promise.all(t)},i.m=e,i.c=n,i.d=function(e,t,r){i.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},i.r=function(e){\"undefined\"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:\"Module\"}),Object.defineProperty(e,\"__esModule\",{value:!0})},i.t=function(e,t){if(1&t&&(e=i(e)),8&t)return e;if(4&t&&\"object\"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(i.r(r),Object.defineProperty(r,\"default\",{enumerable:!0,value:e}),2&t&&\"string\"!=typeof e)for(var n in e)i.d(r,n,function(t){return e[t]}.bind(null,n));return r},i.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return i.d(t,\"a\",t),t},i.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},i.p=\"https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/\",i.oe=function(e){throw console.error(e),e};var l=this[\"helJsonp_hel-sy-test-lib_1665211336485\"]=this[\"helJsonp_hel-sy-test-lib_1665211336485\"]||[],a=l.push.bind(l);l.push=t,l=l.slice();for(var s=0;s<l.length;s++)t(l[s]);var c=a;r()}([])</script><script src=\"https://unpkg.com/hel-sy-test-lib@0.0.2/hel_dist/static/js/main.c75a4887.chunk.js\"></script></body></html>"
+    "html_content": "<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\"/><title>remote-lib-tpl</title><meta name=\"description\" content=\"hel remote lib template\"/></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id=\"root\"></div><script>!function(e){function t(t){for(var n,i,l=t[0],a=t[1],s=t[2],f=0,p=[];f<l.length;f++)i=l[f],Object.prototype.hasOwnProperty.call(o,i)&&o[i]&&p.push(o[i][0]),o[i]=0;for(n in a)Object.prototype.hasOwnProperty.call(a,n)&&(e[n]=a[n]);for(c&&c(t);p.length;)p.shift()();return u.push.apply(u,s||[]),r()}function r(){for(var e,t=0;t<u.length;t++){for(var r=u[t],n=!0,l=1;l<r.length;l++){var a=r[l];0!==o[a]&&(n=!1)}n&&(u.splice(t--,1),e=i(i.s=r[0]))}return e}var n={},o={2:0},u=[];function i(t){if(n[t])return n[t].exports;var r=n[t]={i:t,l:!1,exports:{}};return e[t].call(r.exports,r,r.exports,i),r.l=!0,r.exports}i.e=function(e){var t=[],r=o[e];if(0!==r)if(r)t.push(r[2]);else{var n=new Promise((function(t,n){r=o[e]=[t,n]}));t.push(r[2]=n);var u,l=document.createElement(\"script\");l.charset=\"utf-8\",l.timeout=120,i.nc&&l.setAttribute(\"nonce\",i.nc),l.src=function(e){return i.p+\"static/js/\"+({}[e]||e)+\".\"+{0:\"74f96c01\"}[e]+\".chunk.js\"}(e);var a=new Error;u=function(t){l.onerror=l.onload=null,clearTimeout(s);var r=o[e];if(0!==r){if(r){var n=t&&(\"load\"===t.type?\"missing\":t.type),u=t&&t.target&&t.target.src;a.message=\"Loading chunk \"+e+\" failed.\\n(\"+n+\": \"+u+\")\",a.name=\"ChunkLoadError\",a.type=n,a.request=u,r[1](a)}o[e]=void 0}};var s=setTimeout((function(){u({type:\"timeout\",target:l})}),12e4);l.onerror=l.onload=u,document.head.appendChild(l)}return Promise.all(t)},i.m=e,i.c=n,i.d=function(e,t,r){i.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},i.r=function(e){\"undefined\"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:\"Module\"}),Object.defineProperty(e,\"__esModule\",{value:!0})},i.t=function(e,t){if(1&t&&(e=i(e)),8&t)return e;if(4&t&&\"object\"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(i.r(r),Object.defineProperty(r,\"default\",{enumerable:!0,value:e}),2&t&&\"string\"!=typeof e)for(var n in e)i.d(r,n,function(t){return e[t]}.bind(null,n));return r},i.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return i.d(t,\"a\",t),t},i.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},i.p=\"https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/\",i.oe=function(e){throw console.error(e),e};var l=this[\"helJsonp_hel-sy-test-lib-self-homepage_1665285664872\"]=this[\"helJsonp_hel-sy-test-lib-self-homepage_1665285664872\"]||[],a=l.push.bind(l);l.push=t,l=l.slice();for(var s=0;s<l.length;s++)t(l[s]);var c=a;r()}([])</script><script src=\"https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/static/js/main.54862863.chunk.js\"></script></body></html>"
   }
 }
