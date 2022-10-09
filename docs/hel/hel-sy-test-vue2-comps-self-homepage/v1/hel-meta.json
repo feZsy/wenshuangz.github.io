@@ -1,0 +1,57 @@
+{
+  "app": {
+    "name": "hel-sy-test-vue2-comps-self-homepage",
+    "app_group_name": "hel-sy-test-vue2-comps-self-homepage",
+    "git_repo_url": "",
+    "extract_mode": "build",
+    "online_version": "0.0.5",
+    "build_version": "0.0.5"
+  },
+  "version": {
+    "plugin_ver": "2.3.1",
+    "sub_app_name": "hel-sy-test-vue2-comps-self-homepage",
+    "sub_app_version": "0.0.5",
+    "src_map": {
+      "webDirPath": "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/",
+      "htmlIndexSrc": "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1//index.html",
+      "iframeSrc": "",
+      "chunkCssSrcList": [
+        "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/css/chunk-12b5cdd0.1d909a35.css",
+        "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1//css/chunk-12b5cdd0.1d909a35.css"
+      ],
+      "privCssSrcList": [],
+      "headAssetList": [
+        {
+          "tag": "link",
+          "attrs": {
+            "href": "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/css/chunk-12b5cdd0.1d909a35.css",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "attrs": {
+            "href": "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/js/chunk-12b5cdd0.69c4a607.js",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "attrs": {
+            "href": "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/js/app~e2e93592.c1295932.js",
+            "rel": "preload"
+          }
+        }
+      ],
+      "bodyAssetList": [
+        {
+          "tag": "script",
+          "attrs": {
+            "src": "https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/js/app~e2e93592.c1295932.js"
+          }
+        }
+      ]
+    },
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>tpl-remote-vue-comp</title><script src=\"https://tnfe.gtimg.com/hel-runtime/level1/v1-2.6.14-vue.js\"></script><link href=\"https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/css/chunk-12b5cdd0.1d909a35.css\" rel=\"prefetch\"><link href=\"https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/js/chunk-12b5cdd0.69c4a607.js\" rel=\"prefetch\"><link href=\"https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/js/app~e2e93592.c1295932.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but hel-sy-test-vue2-comps-self-homepage doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"https://wenshuangz.github.io/docs/hel/hel-sy-test-lib-self-homepage/v1/js/app~e2e93592.c1295932.js\"></script></body></html>"
+  }
+}
